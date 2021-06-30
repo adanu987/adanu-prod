@@ -6,3 +6,5 @@ Disallow: /js
 Disallow: /newsletters
 Disallow: /plugins/gravityforms
 Disallow: /uploads
+
+Sitemap: https://adanu.org/sitemap.xml
